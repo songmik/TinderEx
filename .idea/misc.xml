@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ksong/AndroidStudioProjects/13_tinder/app/src/main/res/layout/acticity_like.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/13_tinder/app/src/main/res/layout/activity_like.xml" value="0.23743589743589744" />
         <entry key="..\:/Users/ksong/AndroidStudioProjects/13_tinder/app/src/main/res/layout/activity_login.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/13_tinder/app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/13_tinder/app/src/main/res/layout/activity_match.xml" value="0.24114583333333334" />
         <entry key="..\:/Users/ksong/AndroidStudioProjects/13_tinder/app/src/main/res/layout/item_card.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/13_tinder/app/src/main/res/layout/item_matched_user.xml" value="0.24114583333333334" />
       </map>
     </option>
   </component>
